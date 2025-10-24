@@ -1,0 +1,44 @@
+body {
+    background: lightgray;
+}
+
+div {
+    border-bottom: solid gray 2px;
+    height: 40px;
+    margin: 10px;
+}
+
+.hobbies {
+    display: inline-block;
+    width: 32vw;
+    margin: 0px;
+    height: auto;
+    text-align: center;
+    border: solid black 1px;
+    background-color: white;
+}
+
+#my-photo {
+    text-transform: capitalize;
+    font-style: italic;
+    font-weight: 100;
+}
+
+h1{
+    text-align: center;
+}
+
+img {
+    width: 90vw;
+    display: block;
+    margin: auto;
+}
+
+#footer_container{
+    border: 0px;
+}
+
+footer{
+    position: sticky;
+    bottom: 0px;
+}
