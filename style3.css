@@ -1,0 +1,22 @@
+.profile_img {
+    width: 40vw;
+    height: 50vw;
+    display: block;
+    margin: auto;
+}
+
+.img_caption {
+    font-style: italic;
+    font-size: smaller;
+    margin: 0;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+}
+
+.contact_paragraph{
+    margin: 0;
+}
