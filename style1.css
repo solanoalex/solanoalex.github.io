@@ -1,6 +1,5 @@
 .nav_box {
     display: block;
-
     justify-items: center;
 }
 
@@ -31,7 +30,17 @@ h1 {
     text-align: center;
 }
 
+#sliderImage{
+    display: block;
+    height: 30vw;
+    margin-left: auto;
+    margin-right: auto;
+}
 
+.button_box{
+    display: flex;
+    justify-content: center;
+}
 /* body {
     background: lightgray;
 }

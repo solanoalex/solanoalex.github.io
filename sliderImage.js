@@ -18,7 +18,7 @@ let nextButton = document.getElementById("nextBtn");
 nextButton.addEventListener('click', function(){
     let sliderImage = document.getElementById("sliderImage");
 
-    if(curr_idx === 6){
+    if(curr_idx === 5){
         curr_idx = -1;
     }
 
