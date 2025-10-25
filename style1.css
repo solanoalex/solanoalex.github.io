@@ -23,6 +23,14 @@ li {
     background-color: gold;
 }
 
+h1 {
+    text-align: center;
+}
+
+.welcome_paragraph {
+    text-align: center;
+}
+
 
 /* body {
     background: lightgray;

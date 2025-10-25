@@ -1,6 +1,5 @@
 .nav_box {
     display: block;
-
     justify-items: center;
 }
 
@@ -11,14 +10,43 @@
     text-decoration: none;
 }
 
-ul {
+.nav_options {
     display: flex;
     list-style: none;
     margin: 0;
     padding: 0;
 }
 
-li {
+.nav_option {
     border: 1px solid navy;
     background-color: gold;
+}
+
+.project_list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.proj_box {
+    background-color: lightgray;
+    margin-bottom: 20px;
+}
+
+.proj_name{
+    font-weight: bold;
+    margin: 0;
+}
+
+.proj_desc{
+    margin-left: 15px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-right: 0;
+}
+
+.proj_skills {
+    text-indent: 15px;
+    font-style: italic;
+    margin: 0;
 }
