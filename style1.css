@@ -41,6 +41,15 @@ h1 {
     display: flex;
     justify-content: center;
 }
+
+#sliderCaption {
+    text-align: center;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    font-style: italic;
+    font-weight: smaller;
+}
 /* body {
     background: lightgray;
 }
